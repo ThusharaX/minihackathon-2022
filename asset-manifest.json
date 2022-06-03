@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/minihackathon-2022/static/css/main.debe318a.css",
-    "main.js": "/minihackathon-2022/static/js/main.ec29c958.js",
+    "main.css": "/minihackathon-2022/static/css/main.68abcfd1.css",
+    "main.js": "/minihackathon-2022/static/js/main.851b8929.js",
     "static/media/img1.webp": "/minihackathon-2022/static/media/img1.dd079ab78acdfa7597ef.webp",
     "static/media/img5.webp": "/minihackathon-2022/static/media/img5.6bea065b60ccfcfbfaed.webp",
     "static/media/img2.webp": "/minihackathon-2022/static/media/img2.2b3aa00d7c46cbac37a9.webp",
@@ -13,11 +13,11 @@
     "static/media/revicons.ttf": "/minihackathon-2022/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/minihackathon-2022/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/minihackathon-2022/index.html",
-    "main.debe318a.css.map": "/minihackathon-2022/static/css/main.debe318a.css.map",
-    "main.ec29c958.js.map": "/minihackathon-2022/static/js/main.ec29c958.js.map"
+    "main.68abcfd1.css.map": "/minihackathon-2022/static/css/main.68abcfd1.css.map",
+    "main.851b8929.js.map": "/minihackathon-2022/static/js/main.851b8929.js.map"
   },
   "entrypoints": [
-    "static/css/main.debe318a.css",
-    "static/js/main.ec29c958.js"
+    "static/css/main.68abcfd1.css",
+    "static/js/main.851b8929.js"
   ]
 }
