@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/minihackathon-2022/static/css/main.68abcfd1.css",
-    "main.js": "/minihackathon-2022/static/js/main.851b8929.js",
-    "static/media/img1.webp": "/minihackathon-2022/static/media/img1.dd079ab78acdfa7597ef.webp",
-    "static/media/img5.webp": "/minihackathon-2022/static/media/img5.6bea065b60ccfcfbfaed.webp",
-    "static/media/img2.webp": "/minihackathon-2022/static/media/img2.2b3aa00d7c46cbac37a9.webp",
-    "static/media/img4.webp": "/minihackathon-2022/static/media/img4.4f59972a8c616c7e314d.webp",
-    "static/media/img7.webp": "/minihackathon-2022/static/media/img7.b01ce26e24d92f713e10.webp",
-    "static/media/img3.webp": "/minihackathon-2022/static/media/img3.6a24374a1a73fa3f3b54.webp",
-    "static/media/img6.webp": "/minihackathon-2022/static/media/img6.97f9b44d998fff5e0677.webp",
+    "main.css": "/minihackathon-2022/static/css/main.ff5eecbc.css",
+    "main.js": "/minihackathon-2022/static/js/main.961d02a2.js",
+    "static/media/mini_hackathon_logo.png": "/minihackathon-2022/static/media/mini_hackathon_logo.6f8f1df3eaec28cee368.png",
+    "static/media/mlsa_logo.png": "/minihackathon-2022/static/media/mlsa_logo.6876beb746e3c3a28461.png",
+    "static/media/img7.webp": "/minihackathon-2022/static/media/img7.5845c4d9781a1260b9ae.webp",
+    "static/media/img3.webp": "/minihackathon-2022/static/media/img3.89cf1d4fd82becf3b24b.webp",
+    "static/media/img1.webp": "/minihackathon-2022/static/media/img1.40228b7dbb8fc611870d.webp",
+    "static/media/img4.webp": "/minihackathon-2022/static/media/img4.0367902707ae4dcb5cf4.webp",
+    "static/media/img2.webp": "/minihackathon-2022/static/media/img2.ea83c98c3babb0e80065.webp",
+    "static/media/img5.webp": "/minihackathon-2022/static/media/img5.731bd3b3c3ab9722dd25.webp",
+    "static/media/img6.webp": "/minihackathon-2022/static/media/img6.db2394595f94d234c93f.webp",
+    "static/media/ms_club_logo.png": "/minihackathon-2022/static/media/ms_club_logo.c9ee879ddd13255b63ca.png",
     "static/media/revicons.eot": "/minihackathon-2022/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/minihackathon-2022/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/company_logo.webp": "/minihackathon-2022/static/media/company_logo.935c9c0724ad1966ebbb.webp",
     "static/media/revicons.woff": "/minihackathon-2022/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/minihackathon-2022/index.html",
-    "main.68abcfd1.css.map": "/minihackathon-2022/static/css/main.68abcfd1.css.map",
-    "main.851b8929.js.map": "/minihackathon-2022/static/js/main.851b8929.js.map"
+    "main.ff5eecbc.css.map": "/minihackathon-2022/static/css/main.ff5eecbc.css.map",
+    "main.961d02a2.js.map": "/minihackathon-2022/static/js/main.961d02a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.68abcfd1.css",
-    "static/js/main.851b8929.js"
+    "static/css/main.ff5eecbc.css",
+    "static/js/main.961d02a2.js"
   ]
 }
