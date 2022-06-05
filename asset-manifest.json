@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/minihackathon-2022/static/css/main.57cc8cd4.css",
-    "main.js": "/minihackathon-2022/static/js/main.24e7f06c.js",
-    "static/media/mini_hackathon_logo.png": "/minihackathon-2022/static/media/mini_hackathon_logo.6f8f1df3eaec28cee368.png",
-    "static/media/mlsa_logo.png": "/minihackathon-2022/static/media/mlsa_logo.6876beb746e3c3a28461.png",
-    "static/media/img7.webp": "/minihackathon-2022/static/media/img7.5845c4d9781a1260b9ae.webp",
-    "static/media/img3.webp": "/minihackathon-2022/static/media/img3.89cf1d4fd82becf3b24b.webp",
-    "static/media/img1.webp": "/minihackathon-2022/static/media/img1.40228b7dbb8fc611870d.webp",
-    "static/media/img4.webp": "/minihackathon-2022/static/media/img4.0367902707ae4dcb5cf4.webp",
-    "static/media/img2.webp": "/minihackathon-2022/static/media/img2.ea83c98c3babb0e80065.webp",
-    "static/media/img5.webp": "/minihackathon-2022/static/media/img5.731bd3b3c3ab9722dd25.webp",
-    "static/media/img6.webp": "/minihackathon-2022/static/media/img6.db2394595f94d234c93f.webp",
-    "static/media/ms_club_logo.png": "/minihackathon-2022/static/media/ms_club_logo.c9ee879ddd13255b63ca.png",
-    "static/media/revicons.eot": "/minihackathon-2022/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/minihackathon-2022/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/company_logo.webp": "/minihackathon-2022/static/media/company_logo.935c9c0724ad1966ebbb.webp",
-    "static/media/revicons.woff": "/minihackathon-2022/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/minihackathon-2022/index.html",
-    "main.57cc8cd4.css.map": "/minihackathon-2022/static/css/main.57cc8cd4.css.map",
-    "main.24e7f06c.js.map": "/minihackathon-2022/static/js/main.24e7f06c.js.map"
+    "main.css": "/static/css/main.e783656d.css",
+    "main.js": "/static/js/main.5f88ef63.js",
+    "static/media/mlsa_logo.png": "/static/media/mlsa_logo.6876beb746e3c3a28461.png",
+    "static/media/img7.webp": "/static/media/img7.5845c4d9781a1260b9ae.webp",
+    "static/media/img3.webp": "/static/media/img3.89cf1d4fd82becf3b24b.webp",
+    "static/media/img1.webp": "/static/media/img1.40228b7dbb8fc611870d.webp",
+    "static/media/img4.webp": "/static/media/img4.0367902707ae4dcb5cf4.webp",
+    "static/media/img2.webp": "/static/media/img2.ea83c98c3babb0e80065.webp",
+    "static/media/img5.webp": "/static/media/img5.731bd3b3c3ab9722dd25.webp",
+    "static/media/img6.webp": "/static/media/img6.db2394595f94d234c93f.webp",
+    "static/media/ms_club_logo.png": "/static/media/ms_club_logo.c9ee879ddd13255b63ca.png",
+    "static/media/mini_hackathon_logo.webp": "/static/media/mini_hackathon_logo.c649c30e399def395bac.webp",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/company_logo.webp": "/static/media/company_logo.935c9c0724ad1966ebbb.webp",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.e783656d.css.map": "/static/css/main.e783656d.css.map",
+    "main.5f88ef63.js.map": "/static/js/main.5f88ef63.js.map"
   },
   "entrypoints": [
-    "static/css/main.57cc8cd4.css",
-    "static/js/main.24e7f06c.js"
+    "static/css/main.e783656d.css",
+    "static/js/main.5f88ef63.js"
   ]
 }
