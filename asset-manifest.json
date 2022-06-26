@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e783656d.css",
-    "main.js": "/static/js/main.5f88ef63.js",
+    "main.css": "/static/css/main.18400e2e.css",
+    "main.js": "/static/js/main.eab11d77.js",
     "static/media/mlsa_logo.png": "/static/media/mlsa_logo.6876beb746e3c3a28461.png",
     "static/media/img7.webp": "/static/media/img7.5845c4d9781a1260b9ae.webp",
     "static/media/img3.webp": "/static/media/img3.89cf1d4fd82becf3b24b.webp",
@@ -17,11 +17,11 @@
     "static/media/company_logo.webp": "/static/media/company_logo.935c9c0724ad1966ebbb.webp",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
-    "main.e783656d.css.map": "/static/css/main.e783656d.css.map",
-    "main.5f88ef63.js.map": "/static/js/main.5f88ef63.js.map"
+    "main.18400e2e.css.map": "/static/css/main.18400e2e.css.map",
+    "main.eab11d77.js.map": "/static/js/main.eab11d77.js.map"
   },
   "entrypoints": [
-    "static/css/main.e783656d.css",
-    "static/js/main.5f88ef63.js"
+    "static/css/main.18400e2e.css",
+    "static/js/main.eab11d77.js"
   ]
 }
